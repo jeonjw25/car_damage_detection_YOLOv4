@@ -47,11 +47,11 @@ GTX-1080Ti x2
 2. Put yolov4.cfg into opencv/opencv-4.2.0/build/darknet/cfg/  
 3. Put yolov4_final.weights into opencv/opencv-4.2.0/build/darknet/backup/  
 4. Open the terminal from opencv/opencv-4.2.0/build/darknet/  
-5. input the test command  
+5. Input the test command  
 ```
 sudo ./darknet detector test data/obj.data cfg/yolov4.cfg backup/yolov4_final.weights [test img path] -thresh 0.1
 ```
-6. check the result.
+6. Check the result.
 
 <br/>  
 <br/>  
