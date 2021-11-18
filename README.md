@@ -43,10 +43,10 @@ GTX-1080Ti x2
 
 ## Quick Apply
 
-1. Put obj.data, obj.names, train.txt, img folder into opencv/opencv-4.2.0/build/darknet/data/  
-2. Put yolov4.cfg into opencv/opencv-4.2.0/build/darknet/cfg/  
-3. Put yolov4_final.weights into opencv/opencv-4.2.0/build/darknet/backup/  
-4. Put image.c, image.h into opencv/opencv-4.2.0/build/darknet/src/  
+1. Put **obj.data**, **obj.names**, **train.txt**, **img folder** into opencv/opencv-4.2.0/build/darknet/data/  
+2. Put **yolov4.cfg** into opencv/opencv-4.2.0/build/darknet/cfg/  
+3. Put **yolov4_final.weights** into opencv/opencv-4.2.0/build/darknet/backup/  
+4. Put **image.c**, **image.h** into opencv/opencv-4.2.0/build/darknet/src/  
 5. Open the terminal from opencv/opencv-4.2.0/build/darknet/  
 6. Input the test command  
 ```
