@@ -17,10 +17,10 @@ car parts: front_door, back_door, hood, bumper, rear, fender
 <br/>
 
 ## Member
-| 😁 | NAME | Introduction |
-|------|------|--------|
-| ![JongWonJeon](https://user-images.githubusercontent.com/54730375/123045448-e6795a80-d435-11eb-9f87-e20f79e5a43c.PNG) |   [전종원](https://github.com/jeonjw25/)  |  HUFS/ Information Communication Engineering/ Senier  |
-| ![HyoSeopLee](https://user-images.githubusercontent.com/64147276/142341485-296e4a89-1a3c-4259-a99b-4e6b4a5cda01.png)  |   [이효섭](https://github.com/leehyoseop) |  HUFS/ Information Communication Engineering/ Senier  |
+| NAME | Introduction |
+|------|--------|
+|   [전종원](https://github.com/jeonjw25/)  |  HUFS/ Information Communication Engineering/ Senier  |
+|   [이효섭](https://github.com/leehyoseop) |  HUFS/ Information Communication Engineering/ Senier  |
 
 <br/> 
 <br/>
